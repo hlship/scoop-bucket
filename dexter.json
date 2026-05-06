@@ -1,0 +1,14 @@
+{
+    "version": "0.0.0",
+    "description": "Interactive dependency explorer for Clojure and JVM projects",
+    "homepage": "https://github.com/hlship/dexter",
+    "license": "Apache-2.0",
+    "depends": "java",
+    "url": "https://github.com/hlship/dexter/releases/download/0.0.0/dexter-0.0.0.zip",
+    "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "bin": "dexter.cmd",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/hlship/dexter/releases/download/$version/dexter-$version.zip"
+    }
+}
