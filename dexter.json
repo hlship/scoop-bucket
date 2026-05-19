@@ -1,13 +1,13 @@
 {
-    "version": "0.1-beta-1",
+    "version": "0.1-beta-2",
     "description": "Interactive dependency explorer for Clojure and JVM projects",
     "homepage": "https://github.com/hlship/dexter",
     "license": "Apache-2.0",
     "suggest": {
         "JDK": ["java/temurin-lts-jdk"]
     },
-    "url": "https://github.com/hlship/dexter/releases/download/0.1-beta-1/dexter-0.1-beta-1.zip",
-    "hash": "87182a724025b894e6d7a5a065d9d14436c5be362f1cea13e5050fa76baf3144",
+    "url": "https://github.com/hlship/dexter/releases/download/0.1-beta-2/dexter-0.1-beta-2.zip",
+    "hash": "a81e7e5fe7e44290616ede4cee06113eaf65c3113874f9adae2868fd419730ad",
     "extract_dir": "",
     "bin": "dexter.cmd",
     "checkver": "github",
