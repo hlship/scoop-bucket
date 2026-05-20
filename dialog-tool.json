@@ -1,5 +1,5 @@
 {
-    "version": "2.0-beta-12",
+    "version": "2.0-beta-13",
     "description": "Assist building projects for the Dialog programming language",
     "homepage": "https://github.com/hlship/dialog-tool",
     "license": "Apache-2.0",
@@ -9,8 +9,8 @@
         "Dialog compiler": ["dialog-if"],
         "Å-machine compiler": ["aamachine"]
     },
-    "url": "https://github.com/hlship/dialog-tool/releases/download/2.0-beta-12/dialog-tool-2.0-beta-12.zip",
-    "hash": "42a79f6f099bf8dba23abcbb299832d8cc0ebfd94fcf475b1a700af5293ddf90",
+    "url": "https://github.com/hlship/dialog-tool/releases/download/2.0-beta-13/dialog-tool-2.0-beta-13.zip",
+    "hash": "e61b81f6fd49de5dee967a13dab9586a7f700ce3c1c685b3ebb0718758e5030e",
     "extract_dir": "",
     "bin": "dgt.cmd",
     "checkver": "github",
